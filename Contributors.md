@@ -45,6 +45,7 @@ vanakkam da Mapala...
 -[Avital](https://github.com/Avital2025)- A beginner developer who loves solving problems and aims high. Aspiring to create solutions that make a lasting impact.
 -[Faizan Sheikh](https://github.com/faizan929) - Hello everyone, this is my first time contributing to an open source, happy learning, All the best
 -[madasamy](https://github.com/madasamydfan) - 18 year old , student started contributing to learn.
+-[AmjadHamoud](https://github.com/AmjadHamoud) - 18 year old , student started contributing to learn.
 - [Ritik-khandelwal] (https://github.com/Ritik-khandelwal) - Hey Hii Everyone !!! It's 28th June, 2025 Today. From today I have decided to do open source contributions. All The Best everyone for their future.
 - [johntoby] (https://github.com/johntoby) - Hii guys. Happy to contribute
 -[s1ggelin] (https://github.com/s1ggelin) - Happy to contribute
@@ -3710,6 +3711,7 @@ random guy
 - [takkuhiro](https://github.com/takkuhiro)
 - [Roku Nishimiya](https://github.com/rokuuuuu)
 - [Chaitanya Phanichalla](https://github.com/chaitanyaiscoding)
+- [mundurs](https://github.com/Sin-cy)
 - [Adarsh](https://github.com/adarsh-0024)
 - [Umer Amin](https://github.com/umer-amin)
 - [Rodrigo Avino](https://github.com/rodrigoavino)
@@ -4477,6 +4479,7 @@ John Morgan Hello!
 - [Astha](https://github.com/Astha-codes16)- Starting my journey of open source contribution! All the best to everyone out there
 - [Krishna Awasthi](https://github.com/krishnaawasthi-26)- from krishna, for Krishna, to Krishna
 -[kevinpeltier](https://github.com/kevinpeltier) - Doin' It! Cheers Everyone!!
+Artem Ryabtcev
 - [Kirti Mangate](https://github.com/kirti-ak47)
 - [Christian de Diego](https://github.com/christian97dd) - Hi!, senior frontend developer here!
 - [Farhan Khan Shekhu](https://github.com/FarhanKhanShekhu) - hehehehehe
@@ -4487,4 +4490,7 @@ John Morgan Hello!
 - [dinhdev-nu](https://github.com/dinhdev-nu) - Hi! This is my first contribution.
 -[Poornima Tewatia] ([https://github.com/poornima200631](https://github.com/poornima200631))-Hello!This is my first contribution
 - [James Smith](https://github.com/Matte1196) - Love and unity to us all!
+- [JBetz-Dev](https://github.com/JBetz-Dev)
 - Garvit A [@Garvit09A](https://github.com/Garvit09A)
+[Adem Hoş](https://github.com/AdemHos) - Happy to be here !!
+- [Enox3](https://github.com/enox3/) - Hello world!
